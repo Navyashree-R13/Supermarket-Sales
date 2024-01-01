@@ -12,6 +12,8 @@ The following Pie Chart and Histogram charts are generated from [Sales](https://
 
 <img src= "https://github.com/Navyashree-R13/Supermarket-Sales/assets/73741300/19dbe6f0-8c22-4f2b-b09b-1fe5195d14ac" width="400" height="300" hspace = "8">
 
+<br><br>
+
 The following Pie Chart and Histogram charts are generated from [Box Plots](https://github.com/Navyashree-R13/Supermarket-Sales/blob/main/microcourses-project/BoxPlotForNumericalData.py) code.
 
 <img src="https://github.com/Navyashree-R13/Supermarket-Sales/assets/73741300/38ba01a8-75a2-4943-8aaa-796f0cc8a61d" width="400" height="300">
