@@ -1,7 +1,7 @@
 # Checking if there are any missing values in the entire DataFrame
 any_missing_values = df.isnull().any().any()
 
-# Printing the number of missing values in each column of the DataFrame
+# Printing the number of missing values in each column of the DataFrame.
 print("Missing values in the entire DataFrame:")
 print(any_missing_values)
 
