@@ -56,7 +56,7 @@ fig.show()
 
 df['Original Price'] = df['Sales'] / (1 - (df['Discount'] / 100))
 
-# Display the DataFrame with the new 'Original Price' column
+# Display the DataFrame with the new 'Original Price' column.
 print(df[['Sales', 'Discount', 'Original Price']])
 
 # Add 'Original Price' to the list of columns
