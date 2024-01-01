@@ -10,7 +10,7 @@ num_rows = df.shape[0]
 print(num_rows)
 
 
-# Display the first few rows of the DataFrame for a quick overview
+# Display the first few rows of the DataFrame for quick overview
 print(df.head())
 
 
