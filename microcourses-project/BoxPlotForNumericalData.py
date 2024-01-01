@@ -14,7 +14,7 @@ plt.xlabel('Variable')
 plt.ylabel('Value')
 plt.title('Box Plot for Numerical Data')
 
-# Show the plot
+# Show the plot.
 plt.show()
 
 
