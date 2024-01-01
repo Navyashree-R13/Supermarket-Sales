@@ -1,7 +1,7 @@
 # Supermarket-Sales
 Analyzing Supermarket Sales in different regions leveraging Python libraries such as Pandas, Matplotlib, Plotly Express and Seaborn.
 
-The Pie Chart is generated from [Sales by year](https://github.com/Navyashree-R13/Supermarket-Sales/blob/main/microcourses-project/SalesDataAnalysis.py)
+The Pie Chart and Histogram charts are generated from [Sales by year](https://github.com/Navyashree-R13/Supermarket-Sales/blob/main/microcourses-project/SalesDataAnalysis.py)
 
 ![Pie](https://github.com/Navyashree-R13/Supermarket-Sales/assets/73741300/3c14eee4-6338-48ef-8984-faeb1c7b15c0)
 
