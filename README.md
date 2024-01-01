@@ -1,5 +1,8 @@
 # Supermarket-Sales
-Analyzing Supermarket Sales in different regions leveraging Python libraries such as Pandas, Matplotlib, Plotly Express and Seaborn.
+Analysis using Python is a great way to gain insights about the customer behaviour, sales patterns and overall performance. 
+
+This project makes analysis and creates visualizations using supermarket dataset obtained from the https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset/data by leveraging Python libraries such as Pandas, Matplotlib, Plotly Express and Seaborn to make data-driven decisions. 
+
 
 The following Pie Chart and Histogram charts are generated from [Sales](https://github.com/Navyashree-R13/Supermarket-Sales/blob/main/microcourses-project/SalesDataAnalysis.py) code.
 
